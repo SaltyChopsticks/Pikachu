@@ -9,6 +9,41 @@
   },
   "entries": [
     {
+      "id": "20261114-191818-p2tf",
+      "title": "Emperor Salty, Forze Del Male",
+      "commanders": [
+        "Emperor Salty",
+        "Forze Del Male"
+      ],
+      "guild": {
+        "id": "76722086-86E0-F111-BB23-1221ED2FB4CF",
+        "name": "I Always Move",
+        "tag": "LEFT"
+      },
+      "dateStart": "2026-11-15T00:18:18.000Z",
+      "dateEnd": "2026-11-15T04:35:09.775Z",
+      "dateLabel": "14/11/2026, 19:18:18 - 14/11/2026, 23:35:09",
+      "url": "https://saltychopsticks.github.io/Pikachu/?report=20261114-191818-p2tf",
+      "publishedBy": "SaltyChopsticks",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 13,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20261114-195413-gyar",
       "title": "Emperor Salty",
       "commanders": [
