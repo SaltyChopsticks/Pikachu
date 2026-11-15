@@ -1,0 +1,29 @@
+{
+  "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.25.0"
+  },
+  "entries": [
+    {
+      "id": "20261114-230647-pobo",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "guild": null,
+      "dateStart": "2026-11-15T04:06:47.518Z",
+      "dateEnd": "2026-11-15T04:06:47.518Z",
+      "dateLabel": "14/11/2026, 23:06:47 - 14/11/2026, 23:06:47",
+      "url": "https://saltychopsticks.github.io/Pikachu/?report=20261114-230647-pobo",
+      "publishedBy": "SaltyChopsticks",
+      "summary": {
+        "borderlandsPct": null,
+        "mapSlices": [],
+        "avgSquadSize": 0,
+        "avgEnemySize": 0
+      }
+    }
+  ]
+}
