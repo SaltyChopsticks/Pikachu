@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261115-192249-a9dc",
+      "title": "Emperor Chopsticks",
+      "commanders": [
+        "Emperor Chopsticks"
+      ],
+      "guild": {
+        "id": "235CEB28-D634-E911-81AA-A77AA130EAB8",
+        "name": "Wait Till I Also Get My",
+        "tag": "BLoB"
+      },
+      "dateStart": "2026-11-16T00:22:49.000Z",
+      "dateEnd": "2026-11-16T01:54:07.237Z",
+      "dateLabel": "15/11/2026, 19:22:49 - 15/11/2026, 20:54:07",
+      "url": "https://saltychopsticks.github.io/Pikachu/?report=20261115-192249-a9dc",
+      "publishedBy": "SaltyChopsticks",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 17,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20261114-191818-svmj",
       "title": "Emperor Salty",
       "commanders": [
