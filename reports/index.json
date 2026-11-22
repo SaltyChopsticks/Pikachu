@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261121-194054-z5y3",
+      "title": "Emperor Chopsticks",
+      "commanders": [
+        "Emperor Chopsticks"
+      ],
+      "guild": {
+        "id": "235CEB28-D634-E911-81AA-A77AA130EAB8",
+        "name": "Wait Till I Also Get My",
+        "tag": "BLoB"
+      },
+      "dateStart": "2026-11-22T00:40:54.000Z",
+      "dateEnd": "2026-11-22T01:58:56.568Z",
+      "dateLabel": "21/11/2026, 19:40:54 - 21/11/2026, 20:58:56",
+      "url": "https://saltychopsticks.github.io/Pikachu/?report=20261121-194054-z5y3",
+      "publishedBy": "SaltyChopsticks",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20261121-211758-vtja",
       "title": "Ariah Bloodmoon",
       "commanders": [
