@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261121-211758-vtja",
+      "title": "Ariah Bloodmoon",
+      "commanders": [
+        "Ariah Bloodmoon"
+      ],
+      "guild": {
+        "id": "48CDB90B-75BE-E811-81AA-BEF9B8C3E82E",
+        "name": "Lionheartz",
+        "tag": "RAWR"
+      },
+      "dateStart": "2026-11-22T02:17:58.000Z",
+      "dateEnd": "2026-11-22T03:06:24.524Z",
+      "dateLabel": "21/11/2026, 21:17:58 - 21/11/2026, 22:06:24",
+      "url": "https://saltychopsticks.github.io/Pikachu/?report=20261121-211758-vtja",
+      "publishedBy": "SaltyChopsticks",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 30,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20261121-194054-rj07",
       "title": "Emperor Chopsticks",
       "commanders": [
