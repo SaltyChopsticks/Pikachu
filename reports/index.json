@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261122-201507-irom",
+      "title": "Emperor Chopsticks, Emperor Santa Claws",
+      "commanders": [
+        "Emperor Chopsticks",
+        "Emperor Santa Claws"
+      ],
+      "guild": {
+        "id": "235CEB28-D634-E911-81AA-A77AA130EAB8",
+        "name": "Wait Till I Also Get My",
+        "tag": "BLoB"
+      },
+      "dateStart": "2026-11-23T01:15:07.000Z",
+      "dateEnd": "2026-11-23T01:58:24.944Z",
+      "dateLabel": "22/11/2026, 20:15:07 - 22/11/2026, 20:58:24",
+      "url": "https://saltychopsticks.github.io/Pikachu/?report=20261122-201507-irom",
+      "publishedBy": "SaltyChopsticks",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 20,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 54
+      }
+    },
+    {
       "id": "20261122-203218-a0yt",
       "title": "Emperor Chopsticks",
       "commanders": [
