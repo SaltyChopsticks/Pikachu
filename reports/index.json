@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261124-203523-sq5k",
+      "title": "Emperor Chopsticks",
+      "commanders": [
+        "Emperor Chopsticks"
+      ],
+      "guild": {
+        "id": "235CEB28-D634-E911-81AA-A77AA130EAB8",
+        "name": "Wait Till I Also Get My",
+        "tag": "BLoB"
+      },
+      "dateStart": "2026-11-25T01:35:23.000Z",
+      "dateEnd": "2026-11-25T02:03:47.952Z",
+      "dateLabel": "24/11/2026, 20:35:23 - 24/11/2026, 21:03:47",
+      "url": "https://saltychopsticks.github.io/Pikachu/?report=20261124-203523-sq5k",
+      "publishedBy": "SaltyChopsticks",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 22,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20261124-203523-5ko3",
       "title": "Emperor Chopsticks",
       "commanders": [
